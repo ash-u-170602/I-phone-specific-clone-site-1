@@ -41,7 +41,7 @@
   
   /* Styles for the logo inside the header */
   header .logo {
-    background-image: URL("IMAGE/Apple_logo_PNG2.png"); /* Set the background image for the logo */
+    background-image: URL(./IMAGE/Apple_logo_PNG2.png/); /* Set the background image for the logo */
     background-size: 40px; /* Set the size of the logo image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     width: 50px; /* Set the width and height to match the desired size */
@@ -52,7 +52,7 @@
   
   /* Background image section styles */
   .bgm {
-    background-image: url("IMAGE/Screenshot 2023-08-07 231956.png"); /* Set the background image for the section */
+    background-image: URL(./IMAGE/Screenshot 2023-08-07 231956.png/); /* Set the background image for the section */
     background-size: cover; /* Make the background image cover the entire section */
     background-position: center; /* Center the background image within the section */
     background-repeat: no-repeat; /* Prevent the image from repeating */
