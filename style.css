@@ -41,7 +41,7 @@
   
   /* Styles for the logo inside the header */
   header .logo {
-    background-image: url("IMAGE/Apple_logo_PNG2.png"); /* Set the background image for the logo */
+    background-image: URL(".IMAGE/Apple_logo_PNG2.png"); /* Set the background image for the logo */
     background-size: 40px; /* Set the size of the logo image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     width: 50px; /* Set the width and height to match the desired size */
