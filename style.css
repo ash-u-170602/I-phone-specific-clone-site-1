@@ -53,7 +53,9 @@
   
   /* Background image section styles */
   .bgm {
+
     background-image: URL ("Screenshot 2023-08-07 231956.png"); /* Set the background image for the section */
+    background-image: url(./Screenshot 2023-08-07 231956.png); /* Set the background image for the section */
     background-size: cover; /* Make the background image cover the entire section */
     background-position: center; /* Center the background image within the section */
     background-repeat: no-repeat; /* Prevent the image from repeating */
